@@ -7,51 +7,52 @@ Neste projeto, você será o protagonista na construção do esquema lógico de 
 
 📝 Etapas do Projeto
 
-Esquema Lógico: Utilize o esquema conceitual como base para criar o esquema lógico utilizando o modelo relacional.
+1. Esquema Lógico: Utilize o esquema conceitual como base para criar o esquema lógico utilizando o modelo relacional.
 
-Script SQL: Crie um script SQL para a criação do esquema do banco de dados, incluindo todas as tabelas, relacionamentos e restrições necessárias.
+2. Script SQL: Crie um script SQL para a criação do esquema do banco de dados, incluindo todas as tabelas, relacionamentos e restrições necessárias.
 
-Persistência de Dados: Realize a persistência de dados para realizar testes e garantir o funcionamento correto do banco de dados.
+3. Persistência de Dados: Realize a persistência de dados para realizar testes e garantir o funcionamento correto do banco de dados.
 
 
 🏗️ Implementação do Esquema Lógico
 
 Tabelas Principais:
-Clientes: Armazena informações sobre os clientes da loja.
 
-Produtos: Contém dados dos produtos disponíveis na loja.
+- Clientes: Armazena informações sobre os clientes da loja.
 
-Pagamento: Registra informações sobre os pagamentos realizados pelos clientes.
+- Produtos: Contém dados dos produtos disponíveis na loja.
 
-Pedido: Contém detalhes sobre os pedidos feitos pelos clientes.
+- Pagamento: Registra informações sobre os pagamentos realizados pelos clientes.
 
-Estoque: Armazena o estoque de produtos da loja.
+- Pedido: Contém detalhes sobre os pedidos feitos pelos clientes.
 
-Fornecedor: Registra informações sobre os fornecedores dos produtos.
+- Estoque: Armazena o estoque de produtos da loja.
 
-Vendedor: Contém dados dos vendedores da loja.
+- Fornecedor: Registra informações sobre os fornecedores dos produtos.
+
+- Vendedor: Contém dados dos vendedores da loja.
 
 Relacionamentos:
 
-Cliente -> Pedido: Um cliente pode fazer um ou vários pedidos.
+- Cliente -> Pedido: Um cliente pode fazer um ou vários pedidos.
 
-Pedido -> Produto: Um pedido pode conter um ou vários produtos.
+- Pedido -> Produto: Um pedido pode conter um ou vários produtos.
 
-Produto -> Estoque: Um produto está associado a uma entrada no estoque.
+- Produto -> Estoque: Um produto está associado a uma entrada no estoque.
 
-Fornecedor -> Produto: Um fornecedor pode fornecer um ou vários produtos.
+- Fornecedor -> Produto: Um fornecedor pode fornecer um ou vários produtos.
 
-Vendedor -> Pedido: Um vendedor pode estar associado a um ou vários pedidos.
+- Vendedor -> Pedido: Um vendedor pode estar associado a um ou vários pedidos.
 
 
 🧪 Queries Complexas
 Além das queries básicas de seleção, você pode especificar algumas queries mais complexas para explorar a funcionalidade do banco de dados:
 
-Recuperar todas as vendas realizadas em um determinado período de tempo.
+1. Recuperar todas as vendas realizadas em um determinado período de tempo.
 
-Encontrar os produtos mais vendidos pela loja.
+2. Encontrar os produtos mais vendidos pela loja.
 
-Calcular o total de vendas realizadas por cada vendedor.
+3. Calcular o total de vendas realizadas por cada vendedor.
 
 
 📋 README do Projeto
