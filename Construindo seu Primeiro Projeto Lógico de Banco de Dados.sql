@@ -109,10 +109,10 @@ CREATE TABLE StorageLocation(
 CREATE TABLE ProductSupplier(
 	IdPsSupplier INT,
 	IdPsProduct INT,
-    Quantity INT NOT NULL, 
+   	Quantity INT NOT NULL, 
 	PRIMARY KEY (IdPsSupplier, IdPsProduct),
-    CONSTRAINT fk_product_supplier_supplier FOREIGN KEY (IdPsSupplier) REFERENCES Supplier (IdSupplier),
-    CONSTRAINT fk_product_supplier_product FOREIGN KEY (IdPsProduct) REFERENCES Product (IdProduct)
+        CONSTRAINT fk_product_supplier_supplier FOREIGN KEY (IdPsSupplier) REFERENCES Supplier (IdSupplier),
+        CONSTRAINT fk_product_supplier_product FOREIGN KEY (IdPsProduct) REFERENCES Product (IdProduct)
 );
 
 -- PERSISTINDO DADOS --
