@@ -39,7 +39,6 @@ Fornecedor -> Produto: Um fornecedor pode fornecer um ou vários produtos.
 
 Vendedor -> Pedido: Um vendedor pode estar associado a um ou vários pedidos.
 
-
 🧪 Queries Complexas
 Além das queries básicas de seleção, você pode especificar algumas queries mais complexas para explorar a funcionalidade do banco de dados:
 
