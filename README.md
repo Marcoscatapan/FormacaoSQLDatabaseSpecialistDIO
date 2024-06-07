@@ -1,4 +1,4 @@
-🎓 Formação SQL Database Specialist Dio
+🎓 FORMAÇÃO SQL DATABASE SPECIALIST DIO
 
 Bem-vindo ao repositório da Formação SQL Database Specialist!
 
