@@ -4,7 +4,6 @@
 CREATE DATABASE autopecas;
 USE autopecas;
 
-
 -- CRIAÇÃO DE TABELAS --
 
 # CRIAÇÃO TABELA CLIENTES
