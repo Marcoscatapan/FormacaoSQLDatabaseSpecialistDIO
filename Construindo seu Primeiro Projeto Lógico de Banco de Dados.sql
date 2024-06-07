@@ -4,7 +4,6 @@
 CREATE DATABASE ecommerce;
 USE ecommerce;
 
-
 -- CRIAÇÃO DE TABELAS --
 
 # CRIAÇÃO TABELA CLIENTES
