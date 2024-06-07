@@ -2,6 +2,7 @@
 
 Neste projeto, você será o protagonista na construção do esquema lógico de um banco de dados para uma Oficina de autopeças. Utilizando o esquema conceitual criado no desafio do módulo de modelagem de BD com modelo ER, você irá definir todas as etapas desde o esquema até a implementação do banco de dados.
 
+
 📝 Etapas do Projeto
 
 Esquema Lógico: Utilize o esquema conceitual como base para criar o esquema lógico utilizando o modelo relacional.
@@ -9,6 +10,7 @@ Esquema Lógico: Utilize o esquema conceitual como base para criar o esquema ló
 Script SQL: Crie um script SQL para a criação do esquema do banco de dados, incluindo todas as tabelas, relacionamentos e restrições necessárias.
 
 Persistência de Dados: Realize a persistência de dados para realizar testes e garantir o funcionamento correto do banco de dados.
+
 
 🏗️ Implementação do Esquema Lógico
 
@@ -39,6 +41,7 @@ Fornecedor -> Produto: Um fornecedor pode fornecer um ou vários produtos.
 
 Vendedor -> Pedido: Um vendedor pode estar associado a um ou vários pedidos.
 
+
 🧪 Queries Complexas
 Além das queries básicas de seleção, você pode especificar algumas queries mais complexas para explorar a funcionalidade do banco de dados:
 
@@ -47,6 +50,7 @@ Recuperar todas as vendas realizadas em um determinado período de tempo.
 Encontrar os produtos mais vendidos pela loja.
 
 Calcular o total de vendas realizadas por cada vendedor.
+
 
 📋 README do Projeto
 
