@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da Formação SQL Database Specialist!
 
-Este repositório é destinado aos projetos do curso Formação SQL Database Specialist da Dio desenvolvidos por Marcos Vinicius Catapan, armazenando todos os desafios de projetos propostos pelo curso.
+Este repositório é destinado aos projetos do curso Formação SQL Database Specialist da Dio, armazenando todos os desafios de projetos propostos pelo curso, desenvolvidos por Marcos Vinicius Catapan. 
 
 📂 Como navegar neste repositório
 
