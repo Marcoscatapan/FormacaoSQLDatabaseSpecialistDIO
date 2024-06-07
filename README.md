@@ -14,7 +14,7 @@ Persistência de Dados: Realize a persistência de dados para realizar testes e 
 
 🏗️ Implementação do Esquema Lógico
 
-# Tabelas Principais:
+Tabelas Principais:
 Clientes: Armazena informações sobre os clientes da loja.
 
 Produtos: Contém dados dos produtos disponíveis na loja.
@@ -29,7 +29,7 @@ Fornecedor: Registra informações sobre os fornecedores dos produtos.
 
 Vendedor: Contém dados dos vendedores da loja.
 
-# Relacionamentos:
+Relacionamentos:
 
 Cliente -> Pedido: Um cliente pode fazer um ou vários pedidos.
 
