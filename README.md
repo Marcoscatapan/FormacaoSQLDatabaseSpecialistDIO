@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
 🎓 FORMAÇÃO SQL DATABASE SPECIALIST DIO
 
 Bem-vindo ao repositório da Formação SQL Database Specialist!
