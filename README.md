@@ -2,24 +2,25 @@
 
 Bem-vindo ao repositório da Formação SQL Database Specialist!
 
-Este repositório é destinado aos projetos do curso Formação SQL Database Specialist da Dio, armazenando todos os desafios de projetos propostos pelo curso.
+Este repositório é dedicado aos projetos do curso Formação SQL Database Specialist da DIO, onde você encontrará desafios e projetos para prática e aprendizado em SQL.
 
-📂 Como navegar neste repositório
+📂 Navegação no Repositório
 
 Cada projeto ou desafio está organizado em seu próprio diretório.
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts SQL, documentos de especificação e qualquer outra informação relevante.
-Sinta-se à vontade para explorar, estudar e colaborar com outras pessoas neste repositório.
-Se você é um aluno do curso, este repositório pode ser um recurso valioso para revisão e prática.
 
-🛠️ Projetos disponíveis
+Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como scripts SQL, documentos de especificação e outras informações relevantes.
 
-Projeto 3: Construindo seu Primeiro Projeto Lógico de Banco de Dados
+Sinta-se à vontade para explorar, estudar e colaborar com outros alunos neste repositório. Se você é um estudante do curso, este repositório pode ser uma valiosa fonte de revisão e prática.
 
-Projeto 4: Construa um Projeto Lógico de Banco de Dados do Zero
+🛠️ Projetos Disponíveis
+
+Projeto 3: Construindo seu Primeiro Projeto Lógico de Banco de Dados.
+
+Projeto 4: Construa um Projeto Lógico de Banco de Dados do Zero.
 
 🤝 Contribuindo
 
-Se você gostaria de contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindos!
+Se você deseja contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindas!
 
 📧 Contato
 
