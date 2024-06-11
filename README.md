@@ -1,10 +1,6 @@
-# Construindo seu Primeiro Projeto Lógico de Banco de Dados
-
-
-🛒 Construindo seu Primeiro Projeto Lógico de Banco de Dados: E-Commerce
+# 🛒 Construindo seu Primeiro Projeto Lógico de Banco de Dados: ecommerce
 
 Neste projeto, você irá replicar a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento às definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado.
-
 
 📝 Etapas do Projeto
 
@@ -14,7 +10,6 @@ Neste projeto, você irá replicar a modelagem do projeto lógico de banco de da
 
 3. Persistência de Dados: Realizar a persistência de dados para realizar testes e garantir o funcionamento correto do banco de dados.
 
- 
 🏗️ Implementação do Esquema Lógico
 
 Tabelas Principais:
@@ -50,7 +45,6 @@ Relacionamentos:
 
 - Pedido -> Vendedor: Um pedido pode ser atendido por um ou vários vendedores.
 
-
 🧪 Queries Complexas
 
 Algumas queries mais complexas para explorar a funcionalidade do banco de dados:
@@ -61,6 +55,6 @@ Algumas queries mais complexas para explorar a funcionalidade do banco de dados:
 
 3. Calcular o total de vendas por categoria de produto.
 
-
 📋 README do Projeto
+
 Este README fornece uma visão geral do projeto de construção do esquema lógico de um banco de dados para um cenário de e-commerce. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
