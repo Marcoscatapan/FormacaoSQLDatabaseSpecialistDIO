@@ -55,6 +55,6 @@ Algumas queries mais complexas para explorar a funcionalidade do banco de dados:
 
 3. Calcular o total de vendas por categoria de produto.
 
-📋 README do Projeto
+📋 Síntese do Projeto
 
 Este README fornece uma visão geral do projeto de construção do esquema lógico de um banco de dados para um cenário de e-commerce. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
