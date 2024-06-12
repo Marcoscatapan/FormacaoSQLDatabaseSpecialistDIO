@@ -1,4 +1,4 @@
-# 🛒 Construindo seu Primeiro Projeto Lógico de Banco de Dados: ecommerce
+# 3️⃣ Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
 Neste projeto, você irá replicar a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento às definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado.
 
