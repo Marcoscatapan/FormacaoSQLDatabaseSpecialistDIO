@@ -1,4 +1,4 @@
-# 🛠️ Construa um Projeto Lógico de Banco de Dados do Zero
+# 4️⃣ Construa um Projeto Lógico de Banco de Dados do Zero
 
 Neste projeto, você será o protagonista na construção do esquema lógico de um banco de dados para uma Oficina de autopeças. Utilizando o esquema conceitual criado no desafio do módulo de modelagem de BD com modelo ER, você irá definir todas as etapas desde o esquema até a implementação do banco de dados.
 
@@ -49,6 +49,6 @@ Além das queries básicas de seleção, você pode especificar algumas queries 
 
 3. Calcular o total de vendas realizadas por cada vendedor.
 
-📋 README do Projeto
+📋 Síntese do Projeto
 
 Este README fornece uma visão geral do projeto de construção do esquema lógico de um banco de dados para uma Oficina de autopeças. Se precisar de mais detalhes sobre as etapas do projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato.
